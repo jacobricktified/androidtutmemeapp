@@ -25,5 +25,5 @@
         android:layout_alignParentRight="true"
         android:gravity="center_horizontal"
         android:textFontWeight="30"
-        android:textColor="#FF0000" />
+        android:textColor="#008000" />
 </RelativeLayout>
